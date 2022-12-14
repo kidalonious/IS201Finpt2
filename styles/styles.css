@@ -1,0 +1,26 @@
+body {
+    background-color:ivory;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+a {
+    color: blue;
+}
+a:visited {
+    color: blue;
+}
+a:hover{
+    font-weight: bold;
+}
+li {
+    font-weight: normal;
+    font-size: medium;
+    color: dimgray;
+}
+.topitem {
+    font-weight: bold;
+    font-size: 16px;
+    color: maroon;
+}
+
+
